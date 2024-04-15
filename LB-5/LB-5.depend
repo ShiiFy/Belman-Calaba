@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1713111325 source:c:\users\user\desktop\md\lb-5\lb-5\main.cpp
+	<iostream>
+	<vector>
+	<climits>
+	<string>
+
